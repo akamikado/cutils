@@ -1,0 +1,2 @@
+- [ ] Make dynamic arrays to use flexible array member and make it simpler to use dynamic arrays
+- [ ] Implement hash maps
